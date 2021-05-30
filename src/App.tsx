@@ -2,7 +2,7 @@ import Header from './Header/Header'
 import './style.scss'
 import './styles.css'
 import 'tailwindcss/tailwind.css'
-import { ThemeProvider } from './theme/themeContext.js'
+import { ThemeProvider } from './theme/themeContext'
 
 export const App = () => {
   return (
